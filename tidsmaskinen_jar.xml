@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tidsmaskinen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tidsmaskinen_jar</output-path>
+    <root id="archive" name="tidsmaskinen.jar">
+      <element id="module-output" name="tidsmaskinen" />
+      <element id="library" level="project" name="tidsmaskinen" />
+    </root>
+  </artifact>
+</component>
